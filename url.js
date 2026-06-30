@@ -1,5 +1,5 @@
 const urls = [
-  "https://forms.gle/JNqkZB63xx5p3opQ6",
-  "https://forms.gle/PBiGCYhKwfvqCd8u9"
+  "https://forms.gle/6DZ8dcgjWnvKo9ne8",
+  "https://forms.gle/mx9xkYGXqiEoi6Di9"
 ];
 
